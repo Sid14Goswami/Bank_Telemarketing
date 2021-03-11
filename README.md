@@ -7,7 +7,7 @@ The main objective is to predict customers' responses to future marketing campai
  We can see that value of specificity and AUC is more for Naïve Bayes which shows that it performs better than SVM for True negative rates. ROC curve for both the model looks almost similar and since both are close to top-left corner it suggests nice trade-off between sensitivity and specificity.
 
 Evaluation Metric 
-
+---------------------------------
             | Naïve Bayes | SVM 
 ---------------------------------
 Accuracy    |  0.8138    | 0.8514 
